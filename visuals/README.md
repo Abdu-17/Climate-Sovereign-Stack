@@ -1,1 +1,1 @@
-![Climate Shock Map](https://earthobservatory.nasa.gov/content/gistemp/images/temp_anomaly_2023.png)
+![Climate Shock Map](./visuals/climate_shock_sample.png)
